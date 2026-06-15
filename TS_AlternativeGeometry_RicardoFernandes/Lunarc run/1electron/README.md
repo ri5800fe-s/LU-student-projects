@@ -2,7 +2,8 @@
 
 ## Data
 
-Example data. There are only two files included to reduce the repository size, but all files with the intermediate numbering should also be used.
+Example data. Only one file is included to reduce the repository size, but you should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
+
 
 ## Slurm
 
