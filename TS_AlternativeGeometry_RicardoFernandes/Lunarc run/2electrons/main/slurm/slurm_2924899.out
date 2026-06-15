@@ -1,0 +1,5 @@
+denv_workspace="/home/ricardo/LDMX/ldmx-sw" denv fire gen_main.py 4 1000
+---- LDMXSW: Loading configuration --------
+---- LDMXSW: Configuration load complete  --------
+---- LDMXSW: Starting event processing --------
+---- LDMXSW: Event processing complete  --------
