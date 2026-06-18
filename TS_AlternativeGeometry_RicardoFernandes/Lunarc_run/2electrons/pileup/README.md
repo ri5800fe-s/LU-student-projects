@@ -1,8 +1,8 @@
-# 2 electron/event - Config
+# 2 electron/event - Pileup
 
 ## Data
 
-Example data. You should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
+You should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
 
 ## Slurm
 

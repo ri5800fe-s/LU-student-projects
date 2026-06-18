@@ -1,8 +1,9 @@
-# 2 electron/event - Main
+# 1 electron/event
 
 ## Data
 
-Example data. You should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
+You should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
+
 
 ## Slurm
 
