@@ -13,9 +13,7 @@ run_number=int((sys.argv[1]))-3
 #Filename will have the format (filename)(runnumber).root
 #Feel free to modify filename with your own variables, or
 #modify it to be more descriptive
-#Also, make sure there's a directory named 'data' in the same
-#directory as your config file. If you want your data to be
-#stored somewhere else, change "data/" in the line below this
+
 p.output_files = ["data/{0}{1}.root".format(filename,int(run_number))]
 
 p.max_tries_per_event = 1000

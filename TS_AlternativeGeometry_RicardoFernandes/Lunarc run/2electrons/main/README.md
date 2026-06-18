@@ -2,11 +2,11 @@
 
 ## Data
 
-Example data. Only one file is included to reduce the repository size, but you should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
+Example data. You should generate as many files as specified by the `totaljobs` parameter in the `submitjobs.py` file.
 
 ## Slurm
 
-Terminal output. Useful for debugging. One example of a successful run is provided.
+Terminal output. Useful for debugging.
 
 ## Other files
 

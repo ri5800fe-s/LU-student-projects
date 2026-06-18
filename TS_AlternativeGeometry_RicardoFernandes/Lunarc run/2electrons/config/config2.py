@@ -37,9 +37,6 @@ filename = "events"
 #Filename will have the format (filename)(runnumber).root
 #Feel free to modify filename with your own variables, or
 #modify it to be more descriptive
-#Also, make sure there's a directory named 'data' in the same
-#directory as your config file. If you want your data to be
-#stored somewhere else, change "data/" in the line below this
 
 p.input_files = [main_files[(run_number - 1) % len(main_files)]]
 # p.input_files = ['../main/data/*.root']

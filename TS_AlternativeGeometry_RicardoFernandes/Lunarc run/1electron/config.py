@@ -32,9 +32,7 @@ filename = "1alternative"
 #Filename will have the format (filename)(runnumber).root
 #Feel free to modify filename with your own variables, or
 #modify it to be more descriptive
-#Also, make sure there's a directory named 'data' in the same
-#directory as your config file. If you want your data to be
-#stored somewhere else, change "data/" in the line below this
+
 p.output_files = ["data/{0}{1}.root".format(filename,int(sys.argv[1]))]
 
 p.histogram_file = 'hist.root'
